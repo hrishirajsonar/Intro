@@ -38,5 +38,3 @@ print("math.remainder(31/11): {}".format(math.remainder(31,11))) #return diff be
 print(math.trunc(3.8)) #not ceil or floor, simply removes the decimal part
 print(math.trunc(-1.56))
 print("Gamma of 4: {}".format(math.gamma(4)))
-
-print("Hi")
